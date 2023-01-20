@@ -1,0 +1,37 @@
+# Base URL used when generating links to your pages
+# Set to the URL for your site
+baseURL = "https://example.com"
+
+# The name of this wonderful theme ;-).
+theme = 'hugo-bearblog'
+
+# Basic metadata configuration for your blog.
+title = "Journal and Computing Club 2022-2023"
+author = "Phyllis Wei and Andrew Chin"
+copyright = "Copyright © 2023, Phyllis Wei and Andrew Chin."
+languageCode = "en-US"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "Homepage for JHU Biostatistics Journal and Computing Club for academic year 2022-2023"
+
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["images/share.png"]
+
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "JHU Biostat Journal/Computing Club 2022-2023"
+
+  dateFormat = "2006-01-02"
