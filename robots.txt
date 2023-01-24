@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://chinandrew.github.io/journal-computing-club/sitemap.xml
