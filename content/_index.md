@@ -1,4 +1,4 @@
-Hi everyone! The [JHU Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) student journal and computing club is back for academic year 2022-2023! 
+Hi everyone! The [JHU Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) journal and computing club is back for academic year 2022-2023! 
 
 Meetings will be held on the following **Tuesdays, 12:15-1:15 PM, in room W2008**. Lunch will be served! If you are interested in presenting, please email Phyllis Wei ([ywei43@jhu.edu](mailto:ywei43@jhu.edu)) or Andrew Chin ([achin23@jhu.edu](mailto:achin23@jhu.edu)) and new dates can be added.
 
