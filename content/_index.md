@@ -8,7 +8,7 @@ Meetings will be held on the following **Tuesdays, 12:15-1:15 PM, in room W2008*
 {{<table "table table-striped table-bordered">}}
 |    Date     |      Speaker     | Topic |
 | -------------| -----------------| --------------|
-| 2023/1/31    | Mark Miller      | JHPCE overview |
+| 2023/1/31    | Mark Miller      | JHPCE overview [[Slides](JHPCE-Overview-BST-ComputingClub.pdf)]|
 | 2023/2/14 | Kentaro Hoffman  | Veridical data science |
 | 2023/2/28 | Claire Heffernan | Bayesian models in STAN |
 | 2023/3/14 | Ruzhang Zhao     | TBD |
