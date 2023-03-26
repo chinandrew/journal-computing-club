@@ -13,7 +13,7 @@ Meetings will be held on the following **Tuesdays, 12:15-1:15 PM, in room W2008*
 | 2023/2/28 | Claire Heffernan | Bayesian models in STAN |
 | 2023/3/14 | Ruzhang Zhao     | Single Cell Adaptive Visualization |
 | 2023/4/11 | Yi Wang          | TBD |
-| 2023/4/18 | Boyi Guo         | TBD |
+| 2023/4/18 | Boyi Guo         | escheR: Unified multi-dimensional visualizations with Gestalt principles |
 | 2023/4/25 | Brian Gilbert    | AI assistance in coding |
 | 2023/5/9  | Dongliang Zhang  | Detection of Multiple Influential Observations on Variable Selection for High-dimensional Data |
 {{</table>}}
